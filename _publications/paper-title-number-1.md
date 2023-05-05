@@ -10,6 +10,5 @@ citation: 'F. H. Yang, R. R. Z. Guo, R. C. C. Cheung and C. P. Lau, "F-GAN: Real
 ---
 In this paper, we propose a Generative Adversarial Network-based model (F-GAN) and implement it on the Atlas 200DK board to correct the underwater images in the real-time scenario, especially for the high-resolution images.
 
-[Download paper here](['https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9977993'])
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9977993)
 
-[comment]: # Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
