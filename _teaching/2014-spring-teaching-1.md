@@ -1,8 +1,4 @@
----
-title: "Scholarships"
-collection: Awards
-permalink: /Awards/
----
+
 {% include base_path %}
 
 Scholarships
