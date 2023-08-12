@@ -18,3 +18,7 @@ Scholarships
 * HKSAR Government Scholarship (2021)  
 * CityU Mainland Student Scholarship Scheme - Full Tuition Scholarship (2021)  
 
+Awards
+======
+College of Engineering Dean's List (2018-2021)  
+Second Runner-up in Machine Learning Contest (2021) 
