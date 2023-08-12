@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in HK, City University of Hong Kong, 2018-2022
-* MPhil. in HK, Hong Kong University of Science and Technology, 2022-
+* B.Eng. in HK, City University of Hong Kong, 2018-2022
+* MPhil. in HK, Hong Kong University of Science and Technology, 2022-2024
 
 Work experience
 ======
