@@ -25,6 +25,7 @@ Work experience
 Skills
 ======
 * C++, Python, and Verilog
+* Machine Learning
 * FPGA
   * Versal ACAP architecture
 
