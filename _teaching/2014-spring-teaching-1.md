@@ -1,19 +1,11 @@
 ---
 title: "Scholarships"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+CityU Mainland Student Scholarship Scheme - Full Tuition Scholarship (2018)
+HKSAR Government Scholarship (2019)
+CityU Mainland Student Scholarship Scheme - Full Tuition Scholarship (2019)
+HKSAR Government Scholarship (2020)
+CityU Mainland Student Scholarship Scheme - Full Tuition Scholarship (2020)
+HKSAR Government Scholarship (2021)
+CityU Mainland Student Scholarship Scheme - Full Tuition Scholarship (2021)
