@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: " "
 permalink: /teaching/
 author_profile: true
 ---
