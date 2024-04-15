@@ -39,5 +39,5 @@ Publications
 
 Service and leadership
 ======
-* IEEE HK Section Webmaster: help to maintain the website, 2021-2022
+* IEEE HK Section Webmaster: help to maintain the website, 2021-2024
 * GEF (CityU EE Gifted Education Fund Programme 2021) Tutor: AIoT Coding and Engineering Skills for Gifted Students.
