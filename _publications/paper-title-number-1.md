@@ -1,14 +1,15 @@
 ---
-title: "F-GAN: Real-Time Color Correction Model of Underwater Images"
+title: "“ESFA: An Efficient Scalable FFT Accelerator Design Framework on Versal AI Engine"
 collection: publications
 permalink: /publication/paper-title-number-1
-excerpt: 'This paper is about correcting the underwater images in the real-time scenario.'
-date: 2022-11-01
-venue: 'TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)'
-paperurl: 'https://ieeexplore.ieee.org/document/9977993'
-citation: 'F. H. Yang, R. R. Z. Guo, R. C. C. Cheung and C. P. Lau, "F-GAN: Real-Time Color Correction Model of Underwater Images," TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON), Hong Kong, Hong Kong, 2022, pp. 1-6, doi: 10.1109/TENCON55691.2022.9977993.'
+excerpt: 'This paper is about efficiently and automatically implementing a scalable FFT on the Versal ACAP.'
+date: 2023-11
+venue: 'DAC-WIP 2024'
+paperurl: 
+citation: 'Hao Yang, Linfeng Du, and Wei Zhang. “ESFA: An Efficient Scalable FFT Accelerator Design 
+Framework on Versal AI Engine,” DAC-WIP 2024.'
 ---
-In this paper, we propose a Generative Adversarial Network-based model (F-GAN) and implement it on the Atlas 200DK board to correct the underwater images in the real-time scenario, especially for the high-resolution images.
+In this paper, we propose the ESFA framework to efficiently and automatically implement a scalable FFT on the Versal ACAP. The framework includes an analytical model to report the quality of results and an automatic code generator to enable an agile implementation of the desired design.
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9977993)
+[//]:([Download paper here]())
 
