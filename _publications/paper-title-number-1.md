@@ -3,7 +3,7 @@ title: "“ESFA: An Efficient Scalable FFT Accelerator Design Framework on Versa
 collection: publications
 permalink: /publication/paper-title-number-1
 excerpt: 'This paper is about efficiently and automatically implementing a scalable FFT on the Versal ACAP.'
-date: 2023-11
+date: 2024-06-23
 venue: 'DAC-WIP 2024'
 paperurl: 
 citation: 'Hao Yang, Linfeng Du, and Wei Zhang. “ESFA: An Efficient Scalable FFT Accelerator Design 
