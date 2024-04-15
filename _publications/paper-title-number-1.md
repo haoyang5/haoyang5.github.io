@@ -11,5 +11,5 @@ Framework on Versal AI Engine,” DAC-WIP 2024.'
 ---
 In this paper, we propose the ESFA framework to efficiently and automatically implement a scalable FFT on the Versal ACAP. The framework includes an analytical model to report the quality of results and an automatic code generator to enable an agile implementation of the desired design.
 
-[//]:([Download paper here]())
+:[Download paper here]()
 
