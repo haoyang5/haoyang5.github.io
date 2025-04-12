@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my B.Eng. degree in Electronic Engineering from the City University of Hong Kong in 2022. Then I joined the Hong Kong University of Science and Technology, ECE departments as an MPhil student, supervised by Dr. ZHANG Wei. My major research interests include EDA, FPGA-based accelerations for machine learning, and hardware & software co-design.  
+I obtained my B.Eng. degree in Electronic and Communication Engineering from the City University of Hong Kong in 2022 and MPhil degree in Electronic and Computer Engineering from the Hong Kong University of Science and Technology in 2024. Now I am a Research Assistant at the Hong Kong University of Science and Technology, ECE department, supervised by Prof. Wei ZHANG. My major research interests include FPGA-based accelerators, machine learning, and hardware & software co-design.  
