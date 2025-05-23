@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2020: Research Assistant
   * City University of Hong Kong
-  * Duties included: Hlep to do some projects on FPGA and Embedded Systems
+  * Duties included: Help to do some projects on FPGA and Embedded Systems
   * Supervisor: Dr.Ray
 
   
